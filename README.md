@@ -71,29 +71,11 @@
 
 ## 📚 Currently Learning
 
-- Data Structures & Algorithms (DSA)
+- Data analytics
+- AI & DS 
 - Machine Learning
 - AI-powered Applications
-- Full-Stack Development
-- Backend Development with Flask
-
----
-
-## 💼 Internship
-
-### Java Full Stack Development Intern
-
-**EduSkills Academy | AICTE Virtual Internship**
-
-- Java Full Stack Development
-- JDBC
-- Servlets
-- JSP
-- SQL
-- MVC Architecture
-
----
-
+- 
 ## 🏆 Achievements
 
 - 🥇 AMOGHA-RIPPLE 2K25 Technical Symposium Hackathon
@@ -114,24 +96,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siva0403p&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siva0403p&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=siva0403p&theme=tokyonight" height="170"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 - 📧 **sivanagakumar68@gmail.com**
-- 💼 LinkedIn: **in/siva-naga-kumar-k**
-- 💻 GitHub: **github.com/siva0403p**
+- 💼 LinkedIn: **[in/siva-naga-kumar-k](https://www.linkedin.com/in/siva-naga-kumar-k/)**
+- 💻 GitHub: **[github.com/siva0403p](https://github.com/siva0403p)**
 
 ---
 
