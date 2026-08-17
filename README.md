@@ -75,7 +75,7 @@
 - AI & DS 
 - Machine Learning
 - AI-powered Applications
-- 
+ 
 ## 🏆 Achievements
 
 - 🥇 AMOGHA-RIPPLE 2K25 Technical Symposium Hackathon
