@@ -12,7 +12,7 @@
 - 🎓 B.Tech Computer Science & Engineering student (CGPA: **8.3**)
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Science**
 - 💻 Building practical software using **Python, Flask & JavaScript**
-- 🌱 Currently learning **DSA, Advanced Python, and Full-Stack Development**
+- 🌱 Currently learning **AI & DS, Data analytics, Machine Learning, Data Cleaning **
 - 📍 Nandyal, India
 
 ---
